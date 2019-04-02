@@ -3,10 +3,10 @@ Recipe from here: https://www.bakedbyanintrovert.com/triple-nutella-mousse-cake/
 Cleaning it up to make it easier to follow while baking.
 
 ## Table of Contents
-- [Ingredient Totals](https://github.com/samcarton/recipes/new/master#ingredient-totals)
-- [Brownie Base](https://github.com/samcarton/recipes/new/master#brownie-base)
-- [Nutella Mousse](https://github.com/samcarton/recipes/new/master#nutella-mousse)
-- [Nutella Ganache](https://github.com/samcarton/recipes/new/master#nutella-ganache)
+- [Ingredient Totals](https://github.com/samcarton/recipes/blob/master/Triple%20Nutella%20Mousse%20Cake.md#ingredient-totals)
+- [Brownie Base](https://github.com/samcarton/recipes/blob/master/Triple%20Nutella%20Mousse%20Cake.md#brownie-base)
+- [Nutella Mousse](https://github.com/samcarton/recipes/blob/master/Triple%20Nutella%20Mousse%20Cake.md#nutella-mousse)
+- [Nutella Ganache](https://github.com/samcarton/recipes/blob/master/Triple%20Nutella%20Mousse%20Cake.md#nutella-ganache)
 
 
 ## Ingredient Totals
